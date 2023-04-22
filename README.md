@@ -10,14 +10,4 @@ Method:        Map<Token,Count> computeWordFrequencies(List<Token>)
 Another method/function that counts the number of occurrences of each token in the token list. Remember that you should write this assignment yourself from scratch so you are not allowed to import a counter when the assignment asks you to write that method.
 
 Method:         void print(Frequencies<Token, Count>)
-Finally, a method that prints out the word frequency count onto the screen. The print out should be ordered by decreasing frequency (so, the highest frequency words first). 
-
-
-Reasonable outputs:
-<token>\t<freq>
-<token> <freq>
-<token> - <freq>
-<token> = <freq>
-<token> > <freq>
-<token> -> <freq>
-<token> => <freq>
+Finally, a method that prints out the word frequency count onto the screen. The print out should be ordered by decreasing frequency (so, the highest frequency words first).
